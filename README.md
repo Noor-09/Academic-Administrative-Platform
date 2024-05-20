@@ -1,6 +1,6 @@
-# EduAdmin Pro
+# Academic Administrative Platform 
 
-EduAdmin Pro is a full-stack Student Management System designed to facilitate academic administrative tasks efficiently. This platform offers a seamless experience for managing student data, enrollment, course scheduling, grading, and student profiles.
+Academic Administrative Platform Pro is a full-stack Student Management System designed to facilitate academic administrative tasks efficiently. This platform offers a seamless experience for managing student data, enrollment, course scheduling, grading, and student profiles.
 
 ## Features
 - **Enrollment Management:** Streamline the enrollment process with easy-to-use forms and workflows.
